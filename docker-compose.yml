@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  changedetectionio:
+    image: dgtlmoon/changedetection.io
+    container_name: changedetectionio
+    restart: unless-stopped
+    networks:
+      - app-network
+    ports: 
+      - "127.0.0.1:5000:5000"
+    volumes:
+      - ./datastore:/datastore
+
+  webserver:
+    image: nginx:mainline-alpine
+    container_name: webserver
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx-conf:/etc/nginx/conf.d
+    depends_on:
+      - changedetectionio
+    networks:
+      - app-network
+
+
+networks:
+  app-network:
+    driver: bridge
+
