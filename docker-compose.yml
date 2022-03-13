@@ -2,7 +2,7 @@ version: '3'
 
 services:
   changedetectionio:
-    image: dgtlmoon/changedetection.io
+    image: dgtlmoon/changedetection.io:0.39.10
     container_name: changedetectionio
     restart: unless-stopped
     networks:
@@ -13,13 +13,16 @@ services:
       - ./datastore:/datastore
 
   webserver:
-    image: nginx:mainline-alpine
+    image: nginx:mainline
     container_name: webserver
     restart: unless-stopped
     ports:
       - "80:80"
+      - "443:443"
     volumes:
-      - ./nginx-conf:/etc/nginx/conf.d
+      - ./nginx-conf/conf.d:/etc/nginx/conf.d
+      - ./nginx-conf/default.d:/etc/nginx/default.d
+      - ./certs:/etc/ssl/certs
     depends_on:
       - changedetectionio
     networks:

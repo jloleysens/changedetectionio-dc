@@ -1,0 +1,103 @@
+  Hacker News new | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                    
+
+ 1.                                                               My essential Firefox fixes in 2022 ( rubenerd.com )                                               
+     154 points by Tomte 2 hours ago | hide | 76 comments                                                                                                           
+                                                                                                                                                                    
+ 2.                                                               A new history of Byzantium reveals the inner workings of a late antique empire ( thecritic.co.uk )
+     33 points by mr_golyadkin 57 minutes ago | hide | discuss                                                                                                      
+                                                                                                                                                                    
+ 3.                                                               How to Do Less ( alexturek.com )                                                                  
+     58 points by ggoodale 2 hours ago | hide | 3 comments                                                                                                          
+                                                                                                                                                                    
+ 4.                                                               Python Design Patterns ( python-patterns.guide )                                                  
+     104 points by luu 3 hours ago | hide | 13 comments                                                                                                             
+                                                                                                                                                                    
+ 5.                                                               The Big List of Engineering Management Resources – March 2022 ( practicallyleading.dev )          
+     25 points by shawnaxsom 1 hour ago | hide | 4 comments                                                                                                         
+                                                                                                                                                                    
+ 6.                                                               Mavis Beacon was the top typing teacher in the US, then she vanished ( independent.co.uk )        
+     100 points by ducaale 3 hours ago | hide | 98 comments                                                                                                         
+                                                                                                                                                                    
+ 7.                                                               Container loaded with discarded lithium batteries catches fire enroute to port ( gcaptain.com )   
+     48 points by harambae 2 hours ago | hide | 14 comments                                                                                                         
+                                                                                                                                                                    
+ 8.                                                               Who's Attacking My Server? ( rieck.me )                                                           
+     89 points by Topolomancer 4 hours ago | hide | 120 comments                                                                                                    
+                                                                                                                                                                    
+ 9.                                                               ZFS on a single core RISC-V hardware with 512MB ( welcomes-you.com )                              
+     35 points by magicalhippo 2 hours ago | hide | 13 comments                                                                                                     
+                                                                                                                                                                    
+10.                                                               Lawn mowing frequency affects bee abundance and diversity (2018) ( sciencedirect.com )            
+     158 points by gkfasdfasdf 3 hours ago | hide | 200 comments                                                                                                    
+                                                                                                                                                                    
+11.                                                               EU to make it mandatory to use customer-replaceable batteries in household items ( eevblog.com )  
+     738 points by Tomte 6 hours ago | hide | 474 comments                                                                                                          
+                                                                                                                                                                    
+12.                                                               Why Dark and Light Is Complicated in Photographs ( aaronhertzmann.com )                           
+     61 points by smbv 4 hours ago | hide | 24 comments                                                                                                             
+                                                                                                                                                                    
+13.                                                               Show HN: A Go Library for Website Log Analysis ( convey.earth )                                   
+     25 points by stuartmscott 2 hours ago | hide | discuss                                                                                                         
+                                                                                                                                                                    
+14.                                                               S2: Computational geometry and spatial indexing on the sphere ( github.com/google )               
+     66 points by ofou 5 hours ago | hide | 24 comments                                                                                                             
+                                                                                                                                                                    
+15.                                                               New solar sail may travel to Alpha Centauri ( earthsky.org )                                      
+     55 points by Brajeshwar 3 hours ago | hide | 48 comments                                                                                                       
+                                                                                                                                                                    
+16.                                                               William Blake's printing process [video] ( youtube.com )                                          
+     20 points by dance-me 2 hours ago | hide | 3 comments                                                                                                          
+                                                                                                                                                                    
+17.                                                               To Save C, We Must Save ABI ( thephd.dev )                                                        
+     113 points by ingve 7 hours ago | hide | 61 comments                                                                                                           
+                                                                                                                                                                    
+18.                                                               The Case for Open Infrastructure ( mediocregopher.com )                                           
+     30 points by mediocregopher 3 hours ago | hide | 5 comments                                                                                                    
+                                                                                                                                                                    
+19.                                                               Neurons are fickle. Electric fields are more reliable for information ( picower.mit.edu )         
+     28 points by hhs 3 hours ago | hide | 13 comments                                                                                                              
+                                                                                                                                                                    
+20.                                                               Storing UTC is not a silver bullet (2019) ( codeblog.jonskeet.uk )                                
+     199 points by nickkell 11 hours ago | hide | 142 comments                                                                                                      
+                                                                                                                                                                    
+21.                                                               How to write a tree-sitter grammar in an afternoon ( siraben.dev )                                
+     60 points by siraben 6 hours ago | hide | 3 comments                                                                                                           
+                                                                                                                                                                    
+22.                                                               PyTorch vs. TensorFlow in Academic Papers ( horace.io )                                           
+     42 points by m3at 4 hours ago | hide | 7 comments                                                                                                              
+                                                                                                                                                                    
+23.                                                               The global streaming boom is creating a translator shortage (2021) ( restofworld.org )            
+     80 points by donohoe 6 hours ago | hide | 53 comments                                                                                                          
+                                                                                                                                                                    
+24.                                                               Some Thoughts on Undergraduate Expansion ( columbia.edu )                                         
+     28 points by luu 4 hours ago | hide | 22 comments                                                                                                              
+                                                                                                                                                                    
+25.                                                               Methane might be made by all living organisms ( nature.com )                                      
+     18 points by Brajeshwar 3 hours ago | hide | 9 comments                                                                                                        
+                                                                                                                                                                    
+26.                                                               Fish Swimming (2007) ( theartofnature.org )                                                       
+     7 points by mighty-fine 1 hour ago | hide | discuss                                                                                                            
+                                                                                                                                                                    
+27.                                                               LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender ( codeberg.org )             
+     110 points by homarp 9 hours ago | hide | 27 comments                                                                                                          
+                                                                                                                                                                    
+28.                                                               It’s your friends who break your heart ( theatlantic.com )                                        
+     121 points by wallflower 4 hours ago | hide | 96 comments                                                                                                      
+                                                                                                                                                                    
+29.                                                               My transition from Windows to Linux in an anti-customer age ( scottrlarson.com )                  
+     4 points by trinsic2 38 minutes ago | hide | 1 comment                                                                                                         
+                                                                                                                                                                    
+30.                                                               A digital circuit simulator written in sed ( fideo.info )                                         
+     95 points by curiousfab 8 hours ago | hide | 7 comments                                                                                                        
+                                                                                                                                                                    
+                                                                                                                                                                    
+     More                                                                                                                                                           
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                    
+Applications are open for YC Summer 2022                                                                                                                            
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                           
+                                                                                                                                                                    
+Search:                                                                                                                                                             
